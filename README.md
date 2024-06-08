@@ -61,7 +61,7 @@ The model is trained using the training dataset by
 
 ### 5.Model Evaluation:
 
-The trained model is evaluated using the test dataset, focusing on  the metric *accuracy_score*
+The trained model is evaluated using the test dataset, focusing on  the metric **accuracy_score**
 
 ### 6.Deployment with Streamlit
 
